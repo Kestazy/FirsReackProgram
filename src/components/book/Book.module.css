@@ -1,0 +1,9 @@
+.oneBook{
+    border: 2px #850385 dashed;
+    width: 300px;
+    padding: 1rem;
+}
+
+.oneBookImg{
+    max-width: 100%;
+}
